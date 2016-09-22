@@ -9,7 +9,7 @@ Simple RabbitMQ Consumer that consumes message published by the [Producer](https
 ## Installation
 ### Checkout the repository
 
-	git clone git@github.com:kgorski/java-rabbitmq-consumer.git
+    git clone git@github.com:kgorski/java-rabbitmq-consumer.git
 
 ### Run maven package
 
